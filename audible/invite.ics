@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Pakistan Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Community Hubs;SENT-BY="mailto:HAMZA.AFZAL@studentambassadors.c
+ om":mailto:MSPOpen@stdntpartners.onmicrosoft.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=HAMZA AFZA
+ L:mailto:HAMZA.AFZAL@studentambassadors.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Community 
+ Hubs:mailto:MSPOpen@stdntpartners.onmicrosoft.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=awansaad69
+ 27@gmail.com:mailto:awansaad6927@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=241987@stu
+ dents.au.edu.pk:mailto:241987@students.au.edu.pk
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Siddiquisa
+ brina584@gmail.com:mailto:Siddiquisabrina584@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=hk7866@yah
+ oo.com:mailto:hk7866@yahoo.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=siddiqaa95
+ 4@gmail.com:mailto:siddiqaa954@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=rao96782@g
+ mail.com:mailto:rao96782@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=231187@stu
+ dents.au.edu.pk:mailto:231187@students.au.edu.pk
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=masuminaya
+ t@gmail.com:mailto:masuminayat@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Irfanchaud
+ hry355@gmal.com:mailto:Irfanchaudhry355@gmal.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=maryamqure
+ shi048@gmail.com:mailto:maryamqureshi048@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=hiranaseer
+ 1581@gmail.com:mailto:hiranaseer1581@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=chfaizan62
+ 1@gmail.com:mailto:chfaizan621@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ahmad.hass
+ aan45@gmail.com:mailto:ahmad.hassaan45@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=220591@stu
+ dents.au.edu.pk:mailto:220591@students.au.edu.pk
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=livox1180@
+ gmail.com:mailto:livox1180@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=haadirazah
+ r0@gmail.com:mailto:haadirazahr0@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=iqra65365@
+ gmail.com:mailto:iqra65365@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=aqsarehman
+ 373@gmail.com:mailto:aqsarehman373@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=hashaam13a
+ wan@gmail.com:mailto:hashaam13awan@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=umaimaehsa
+ n9174@gmail.com:mailto:umaimaehsan9174@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=shahzainna
+ deem352@gmail.com:mailto:shahzainnadeem352@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ra6548655@
+ gmail.com:mailto:ra6548655@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=malikali48
+ 2482@gmail.com:mailto:malikali482482@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=syedshadan
+ raza99@gmail.com:mailto:syedshadanraza99@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=zumerdhill
+ un@gmail.com:mailto:zumerdhillun@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=omerpool.7
+ 86@gmail.com:mailto:omerpool.786@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=muhammadah
+ med98121@gmail.com:mailto:muhammadahmed98121@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sajjadamja
+ d0123@gmail.com:mailto:sajjadamjad0123@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=chaudharyh
+ asnat786@gmail.com:mailto:chaudharyhasnat786@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=danihaider
+ 256@gmail.com:mailto:danihaider256@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=dayyanm786
+ @gmail.com:mailto:dayyanm786@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=mahraliusm
+ an@gmail.com:mailto:mahraliusman@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=nayaboffic
+ ial2201@gmail.com:mailto:nayabofficial2201@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=farhannaee
+ m2121@gmail.com:mailto:farhannaeem2121@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=210879@stu
+ dents.au.edu.pk:mailto:210879@students.au.edu.pk
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=hashaamawa
+ n9@gmail.com:mailto:hashaamawan9@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=amnabatool
+ 542@gmail.com:mailto:amnabatool542@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=wajihh153@
+ gmail.com:mailto:wajihh153@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Ramzanjave
+ ria1@gmail.com:mailto:Ramzanjaveria1@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=abdullahis
+ haq2310@gmail.com:mailto:abdullahishaq2310@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=syedrizwan
+ haider555@gmail.com:mailto:syedrizwanhaider555@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=230985@stu
+ dents.au.edu.pk:mailto:230985@students.au.edu.pk
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=mahnoorsha
+ hzadi348@gmail.com:mailto:mahnoorshahzadi348@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ahsan.faro
+ oq531@gmail.com:mailto:ahsan.farooq531@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Minahilshe
+ ikh207@gmail.com:mailto:Minahilsheikh207@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=syedaaliab
+ atool422@gmail.com:mailto:syedaaliabatool422@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=daniyalsal
+ mantt@gmail.com:mailto:daniyalsalmantt@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ayeshamaji
+ d680@gmail.com:mailto:ayeshamajid680@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=mohtasimab
+ basi0315@gmail.com:mailto:mohtasimabbasi0315@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Saqib136al
+ i@gmail.com:mailto:Saqib136ali@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ammarawan0
+ 4@gmail.com:mailto:ammarawan04@gmail.com
+DESCRIPTION;LANGUAGE=en-US:Session: "Azure App Service: Intro To Cloud Depl
+ oyment" on 20:00  (Pakistan Standard Time) on Microsoft Teams.\n\n\n\n\n\n
+ __________________________________________________________________________
+ ______\nMicrosoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en
+ -US>\nJoin the meeting now<https://teams.microsoft.com/l/meetup-join/19%3a
+ 91a15f7002fd4d1da57ded05cb003db2%40thread.skype/1727101271384?context=%7b%
+ 22Tid%22%3a%2284c31ca0-ac3b-4eae-ad11-519d80233e6f%22%2c%22Oid%22%3a%22105
+ a0774-7d6e-423c-86ff-d5a91adb6759%22%7d>\nMeeting ID: 287 027 525 941\nPas
+ scode: 3VyeJs\n________________________________\nFor organizers: Meeting o
+ ptions<https://teams.microsoft.com/meetingOptions/?organizerId=105a0774-7d
+ 6e-423c-86ff-d5a91adb6759&tenantId=84c31ca0-ac3b-4eae-ad11-519d80233e6f&th
+ readId=19_91a15f7002fd4d1da57ded05cb003db2@thread.skype&messageId=17271012
+ 71384&language=en-US>\n___________________________________________________
+ _____________________________\n
+UID:040000008200E00074C5B7101A82E0080000000018D849D7C30DDB01000000000000000
+ 0100000005B79C2FDAD2EA54AB688AF04BE938C10
+SUMMARY;LANGUAGE=en-US:Azure App Service: Intro To Cloud Deployment
+DTSTART;TZID=Pakistan Standard Time:20240923T200000
+DTEND;TZID=Pakistan Standard Time:20240923T210000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20240923T142115Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION;LANGUAGE=en-US:Microsoft Teams Meeting
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-OWNERAPPTID:2122956056
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-ONLINEMEETINGINFORMATION:{"OnlineMeetingChannelId":null\,"Onlin
+ eMeetingProvider":3}
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3a91a15f7002fd4d1da57ded05cb003db2%40thread.skype/1727101271384?context
+ =%7b%22Tid%22%3a%2284c31ca0-ac3b-4eae-ad11-519d80233e6f%22%2c%22Oid%22%3a%
+ 22105a0774-7d6e-423c-86ff-d5a91adb6759%22%7d
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.microsof
+ t.com/teams/84c31ca0-ac3b-4eae-ad11-519d80233e6f/105a0774-7d6e-423c-86ff-d
+ 5a91adb6759/19_91a15f7002fd4d1da57ded05cb003db2@thread.skype/1727101271384
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:91a15f7002fd4d1da57ded05cb003db
+ 2@thread.skype"\,"rid":1727101271384\,"mid":1727101271384\,"uid":"8:orgid:
+ 105a0774-7d6e-423c-86ff-d5a91adb6759"\,"private":false\,"type":0\,"ct":nul
+ l\,"btid":null}
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
+X-MICROSOFT-LOCATIONDISPLAYNAME:Microsoft Teams Meeting
+X-MICROSOFT-LOCATIONSOURCE:None
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"Microsoft Teams Meeting"\,"LocationA
+ nnotation":""\,"LocationUri":""\,"LocationStreet":""\,"LocationCity":""\,"
+ LocationState":""\,"LocationCountry":""\,"LocationPostalCode":""\,"Locatio
+ nFullAddress":""}]
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
